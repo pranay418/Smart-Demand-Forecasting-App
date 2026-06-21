@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/
+
+# Data and large files
+*.xlsx
+*.zip
+*.tar.gz
+*.gz
+raw_data/
+temp/
+.DS_Store
